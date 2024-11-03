@@ -30,6 +30,12 @@ Technologies used: **Frontend Technologies**
 **Other Technologies**
 - Node.js: For building the server-side logic and handling API requests.
 
+To run the Proejcts, download the files in the same path as it is. Open terminal in thr PDF folder and type "python app.py".
+
+It will give a host link that has to be copied and pasted in a web browser to view the Personal Finance Dashboard in a web browser.
+
+Another way is opening the Finance 2.0
+
 
 ![ss 1](https://github.com/user-attachments/assets/e2252473-df69-4b90-b3f3-5b361c93647a)
 
