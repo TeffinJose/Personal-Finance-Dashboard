@@ -34,8 +34,10 @@ To run the Proejcts, download the files in the same path as it is. Open terminal
 
 It will give a host link that has to be copied and pasted in a web browser to view the Personal Finance Dashboard in a web browser.
 
-Another way is opening the Finance 2.0
+Another way is opening the Finance 2.0.py file and running it.
 
+
+You can register a user and login with an existing user and give that person's expenses and get the visual representation and also some recommendations on reducing the expenses.
 
 ![ss 1](https://github.com/user-attachments/assets/e2252473-df69-4b90-b3f3-5b361c93647a)
 
