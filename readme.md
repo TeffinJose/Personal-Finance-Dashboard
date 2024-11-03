@@ -29,3 +29,10 @@ Technologies used: **Frontend Technologies**
 - Git: For tracking changes and collaboration.
 **Other Technologies**
 - Node.js: For building the server-side logic and handling API requests.
+
+
+![ss 1](https://github.com/user-attachments/assets/e2252473-df69-4b90-b3f3-5b361c93647a)
+
+![ss2](https://github.com/user-attachments/assets/d35b473a-f51a-4a27-a1e2-9389ceb22de7)
+
+![ss3](https://github.com/user-attachments/assets/4de3a247-a850-42fe-b963-e8c75404c581)
